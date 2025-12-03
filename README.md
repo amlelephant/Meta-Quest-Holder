@@ -1,4 +1,4 @@
-A custom 3D-printed Meta Quest headset holder designed to clamp securely to the side of a desk. This setup keeps your VR headset accessible, protected, and off your workspace. The design is optimized for strength, ease of printing, and everyday use. I didn't really see a broad implimentation of a clamp based system for desk mounting so I made one.
+A custom 3D-printed Meta Quest headset holder designed to clamp securely to the side of a desk. This setup keeps your VR headset accessible, protected, and off your workspace. The design is optimized for strength, ease of printing, and everyday use. I didn't really see a broad implimentation of a clamp based system for desk mounting so I made one. Since I modeled this with the clamp attributed below, you can altar the clamp based on your needs at the link. I reccomend printing the clamp and stand out in two pieces because it saves a lot of supports. From my testing, attaching with superglue and then melting the pla together works very well. Screws should work better but with my limited resources I was not able to impliments that for my use case.
 
 Features:
  - Desk-side clamp mount to free up desk surface
